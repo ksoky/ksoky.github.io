@@ -6,6 +6,10 @@ title: Publications
 You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=rVlkSQcAAAAJ" target="_blank">Google Scholar profile</a>.
 <br />
 
+#### Journal
+- **Kak Soky**, Masato Mimura, Chenhui Chu, Tatsuya Kawahara, Sheng Li, Chenchen Ding, Sethserey Sam.
+TriECCC: Trilingual Corpus of the Extraordinary Chambers in the Courts of Cambodia for Speech Recognition and Translation Studies, International Journal of Asian Language Processing, 2022
+
 #### Conference papers
 - **K. Soky**, S. Li, M. Mimura, C. Chu, T. Kawahara, Leveraging Simultaneous Translation for Enhancing Transcription of Low-resource Language via Cross Attention Mechanism, <a href="https://interspeech2022.org/" target="_blank">Interspeech</a>, 2022
 
