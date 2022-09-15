@@ -11,6 +11,7 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 TriECCC: Trilingual Corpus of the Extraordinary Chambers in the Courts of Cambodia for Speech Recognition and Translation Studies, International Journal of Asian Language Processing, 2022
 
 #### Conference papers
+- **K. Soky**, Z. Gong, S. Li, NICT-Tib1: A Public Speech Corpus of Lhasa Dialect for Benchmarking Tibetan Language Speech Recognition Systems, <a href="https://vlsp.org.vn/cocosda2022/" target="_blank">O-COCOSDA2022</a>, 2022
 - **K. Soky**, S. Li, M. Mimura, C. Chu, T. Kawahara, Leveraging Simultaneous Translation for Enhancing Transcription of Low-resource Language via Cross Attention Mechanism, <a href="https://interspeech2022.org/" target="_blank">Interspeech</a>, 2022
 
 - **K. Soky**, M. Mimura, T. Kawahara, S. Li, C. Ding, C. Chu, S. Sam, KHMER SPEECH TRANSLATION CORPUS OF THE EXTRAORDINARY CHAMBERS IN THE COURTS OF CAMBODIA (ECCC), <a href="https://www.colips.org/conferences/cocosda2021/wp/" target="_blank">O-COCOSDA2021</a>, 2021
