@@ -7,6 +7,8 @@ You can also browse my <a href="https://scholar.google.com/citations?user=221cQO
 <br />
 
 #### Journal
+- **Kak Soky**, Sheng Li, Chenhui Chu, Tatsuya Kawahara.
+Finetuning Pretrained Model with Embedding of Domain and Language Information for ASR of Very Low-Resource Settings, International Journal of Asian Language Processing, 2023
 - **Kak Soky**, Masato Mimura, Chenhui Chu, Tatsuya Kawahara, Sheng Li, Chenchen Ding, Sethserey Sam.
 TriECCC: Trilingual Corpus of the Extraordinary Chambers in the Courts of Cambodia for Speech Recognition and Translation Studies, International Journal of Asian Language Processing, 2022
 
